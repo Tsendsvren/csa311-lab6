@@ -1,3 +1,14 @@
+error id: file:///C:/Users/User/Documents/2025-2026/CSA311/lab6/csa311-lab6/Java/src/main/java/edu/cmu/cs/cs214/rec04/Main.java:_empty_/Inher#
+file:///C:/Users/User/Documents/2025-2026/CSA311/lab6/csa311-lab6/Java/src/main/java/edu/cmu/cs/cs214/rec04/Main.java
+empty definition using pc, found symbol in pc: _empty_/Inher#
+found definition using semanticdb; symbol local2
+empty definition using fallback
+non-local guesses:
+
+offset: 1180
+uri: file:///C:/Users/User/Documents/2025-2026/CSA311/lab6/csa311-lab6/Java/src/main/java/edu/cmu/cs/cs214/rec04/Main.java
+text:
+```scala
 package edu.cmu.cs.cs214.rec04;
 
 /**
@@ -20,19 +31,12 @@ public class Main {
         SortedIntList list2;
         list1 = new DelegationSortedIntList();
         list2 = new InheritanceSortedIntList();
-
-        IntegerList extraList = new DelegationSortedIntList();
-        extraList.add(7);
-        extraList.add(5);
-        extraList.add(6);
         // add 5 elements to our first list.
         list1.add(1);
         list1.add(3);
         list1.add(2);
         list1.add(4);
         list1.add(2);
-        list1.remove(3);
-        list1.addAll(extraList);
         printList(list1);
         System.out.println(((DelegationSortedIntList) list1).getTotalAdded());
         // add 2 elements to a second list.
@@ -41,7 +45,7 @@ public class Main {
         // add the first list (5 elements) to our second list (2 elements).
         list2.addAll(list1);
         printList(list2);
-        System.out.println(((InheritanceSortedIntList) list2).getTotalAdded());
+        System.out.println(((In@@her) list2).getTotalAdded());
     }
 
     /**
@@ -56,3 +60,10 @@ public class Main {
         System.out.println();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/Inher#
