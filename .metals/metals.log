@@ -3415,3 +3415,71 @@ WARNING: Unmatched cancel notification for request id 5851
 2026.03.12 12:15:33 INFO  Memory monitor stopped
 2026.03.12 12:15:33 INFO  shutting down Metals
 2026.03.12 12:15:34 INFO  Exiting server
+2026.03.17 21:28:38 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6' for client Visual Studio Code 1.111.0.
+2026.03.17 21:28:38 INFO  Memory monitor started
+2026.03.17 21:28:40 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.17 21:28:40 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\InheritanceSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:41 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\InheritanceSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:41 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\InheritanceSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:43 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\InheritanceSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:45 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\Main.java. Using fallback presentation compiler.
+2026.03.17 21:28:45 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\test\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntListTest.java. Using fallback presentation compiler.
+2026.03.17 21:28:45 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:46 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:28:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2026.03.17 21:28:45 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:45 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:49 WARN  no build target for: C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java
+2026.03.17 21:28:49 WARN  no build target for: C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\Main.java
+2026.03.17 21:28:49 WARN  no build target for: C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\InheritanceSortedIntList.java
+2026.03.17 21:28:49 WARN  no build target for: C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\test\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntListTest.java
+2026.03.17 21:28:49 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:49 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:28:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 17, 2026 9:28:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 17, 2026 9:28:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.17 21:28:53 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:28:53 INFO  time: code lens generation in 4.24s
+2026.03.17 21:28:53 INFO  time: code lens generation in 4.24s
+Mar 17, 2026 9:28:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Mar 17, 2026 9:28:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.17 21:28:53 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:28:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2026.03.17 21:28:53 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:29:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.17 21:29:03 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:07 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:07 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:07 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:29:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Mar 17, 2026 9:29:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2026.03.17 21:29:10 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:17 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:17 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:17 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:17 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:29:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Mar 17, 2026 9:29:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+Mar 17, 2026 9:29:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2026.03.17 21:29:18 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:18 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+2026.03.17 21:29:23 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:29:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+2026.03.17 21:29:23 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
+Mar 17, 2026 9:35:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.17 21:35:15 INFO  no build target found for C:\Users\User\Documents\2025-2026\CSA311\lab6\csa311-lab6\Java\src\main\java\edu\cmu\cs\cs214\rec04\DelegationSortedIntList.java. Using fallback presentation compiler.
